@@ -28,6 +28,7 @@ import drip from "./drip.png"
 import bossup from "./bossup.png"
 import screenquest from "./screenquest.png"
 import lexflix from "./lexflix.png"
+import vx from "./vx.png"
 
 export {
   logo,
@@ -58,5 +59,6 @@ export {
   drip,
   bossup, 
   screenquest,
-  lexflix
+  lexflix,
+  vx
 };
