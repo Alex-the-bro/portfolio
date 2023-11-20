@@ -46,9 +46,9 @@ const Contact = () => {
       )
       .then(
         () => {
-          setLoading(false);
+          setLoading(false); // Set loading to false, not true
           alert("Thank you. I will get back to you as soon as possible.");
-
+      
           setForm({
             name: "",
             email: "",
@@ -58,7 +58,7 @@ const Contact = () => {
         (error) => {
           setLoading(false);
           console.error(error);
-
+      
           alert("Ahh, something went wrong. Please try again.");
         }
       );

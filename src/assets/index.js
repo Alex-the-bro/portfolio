@@ -25,9 +25,9 @@ import afrihost from "./company/afrihost.png";
 import tih from "./company/tih.jpg"
 
 import drip from "./drip.png"
-import bossup from "./bossup.png"
+
 import screenquest from "./screenquest.png"
-import lexflix from "./lexflix.png"
+import profolio from "./profolio.jpg"
 import vx from "./vx.png"
 
 export {
@@ -57,8 +57,8 @@ export {
 
   Photoshop,
   drip,
-  bossup, 
+  profolio,
+   
   screenquest,
-  lexflix,
   vx
 };

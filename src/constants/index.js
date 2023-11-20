@@ -19,9 +19,8 @@ import {
   tih,
   Photoshop,
   drip,
-  bossup,
+  profolio,
   screenquest,
-  lexflix,
   vx
   
 } from "../assets";
@@ -212,7 +211,7 @@ const projects = [
     ],
     image: vx,
     source_code_link: "https://github.com/Alex-the-bro/visonX",
-    live_site: "https://visionx.netlify.app/"
+    live_site: "https://visionex.netlify.app/"
   },
   {
     name: "Screen Quest",
@@ -237,26 +236,26 @@ const projects = [
     live_site: "https://screenquest.netlify.app/"
   },
   {
-    name: "Netflix Page(clone)",
+    name: "Profolio Crafters",
     description:
-      "A website that allows users to search for any movie, TV show or video game and in response the user gets a listing of all movies, tv shows and videos games that match the search.",
+      "Profolio Crafters is a business that offers CV writing, LinkedIn optimisation and portfolio website services. Their website, which I developed, includes WhatsApp intergration that allows users to instantly start a WhatsApp chat for service enquiries as well as smooth animations.",
     tags: [
       {
-        name: "Html5",
+        name: "React.Js",
         color: "blue-text-gradient",
       },
       {
-        name: "Css",
+        name: "Css3",
         color: "green-text-gradient",
       },
       {
-        name: "Javascript",
+        name: "Framer Motion",
         color: "pink-text-gradient",
       },
     ],
-    image: lexflix,
-    source_code_link: "https://github.com/Alex-the-bro/netflix-landing-clone",
-    live_site: "https://lexflix.netlify.app/"
+    image: profolio,
+    source_code_link: "https://github.com/Alex-the-bro/Profolio",
+    live_site: "https://profolio.co.za/"
   },
   
 ];

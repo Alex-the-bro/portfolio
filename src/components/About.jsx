@@ -47,8 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Although professionally immersed and certified in the realm of digital marketing, I have concurrently pursued my passion for web development through freelancing while diligently persuing higher education in Systems Development. My journey has been a blend of mastering HTML, CSS, and JavaScript, along with top-notch frameworks like React, Node.js, and Three.js. My agility in grasping new concepts is rivaled only by my commitment to closely collaborate with clients, resulting in the creation of streamlined, scalable, and robust web development solutions tailored to address real-world problems.
+        As a dedicated and skilled front-end developer, I bring a deep passion for creating exceptional user experiences through front end development. My experience and expertise in HTML5, CSS3, JavaScript, and content management systems (CMS) enable me to design and build visually appealing and responsive websites. I'm committed to staying up-to-date with the latest industry trends and best practices to ensure user-friendly and performance-driven web applications. My problem-solving skills and creative mindset allow me to contribute to projects that address real-world challenges and align with organizational goals.
       </motion.p>
+      
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
